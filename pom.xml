@@ -6,9 +6,9 @@
 	-->
 	<parent>
 		  <groupId>org.deloitte.cd</groupId>
-		  <artifactId>parentpom</artifactId>
+		  <artifactId>munit-http</artifactId>
 		  <version>1.0-SNAPSHOT</version>
-		  <relativePath>/pom.xml</relativePath>
+		  <relativePath>../pom.xml</relativePath>
 	 </parent>
 	<groupId>org.deloitte.cd</groupId><artifactId>munit-http</artifactId><version>1.0.0-SNAPSHOT</version><packaging>mule-application</packaging><name>munit-http</name>
 
